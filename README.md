@@ -10,6 +10,10 @@ Venkata Naga Sai Sriram Akella -*My Project*- [SriramAkella](https://github.com/
 #### License
 This project is licensed under the GNU General Public License v2.0 - see the [License](https://github.com/Sriramakella123/ISQA8086-002/blob/master/LICENSE) file for more details.
 
+#### List of files in the repository
+* License
+* Readme.md
+
 ##### List of Projects in future
 * Information Seeking
 * Data Entry Analysis

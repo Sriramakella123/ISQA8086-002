@@ -1,4 +1,4 @@
-### This markdown document in the repository consists of the Zika Virus related data spread across several countries in the year 2015-16
+_This markdown document in the repository consists of the Zika Virus related data spread across several countries in the year 2015-16_
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46641.svg)](http://dx.doi.org/10.5281/zenodo.46641)
 
@@ -18,7 +18,7 @@
     - [United States](#united-states)
 - [Additional Resources](#additional-resources)
 
-This repository also contains [archived PDFs](pdfs/) and [data extracted from the resources below](data/).
+The data set can be obtained from [Zika Data Set](https://github.com/Sriramakella123/ISQA8086-002/tree/master/Zika%20Data%20Set)
 
 ## Global Data
 
@@ -84,7 +84,19 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 - The U.S. Virgin Islands Department of Health is publishing [weekly Zika surveillance reports](http://www.healthvi.org/topics/az/z/zika.html).
 
-## Additional Resources
+## License Details
+The license details can be found [here](http://about.zenodo.org/privacy-policy/) and the terms of use are available [here](http://about.zenodo.org/terms/)
+
+## Potential Data users and decision makers for the Zika dataset
+The Zika data set is useful for several countries, government, health care analysts as well as common people in order to understand the spread of virus, its impact globally and to make decision and proper planning of treatment, cure and awareness
+
+## Questions the data set would answer
+1. The countries affected with the Zika Virus
+2. The year and reported date of occurrence, the laboratory confirmed cases, the expectancy of spread 
+3. The measure values and population affected can be found with rescpect toech week in the affected year
+
+
+> Additional Resources
 
 - A team of public health researchers are [standardizing official Zika data from several countries](https://github.com/cdcepi/zika).
 
@@ -92,10 +104,9 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 ## Acknowledgements
 
-Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi), [@benparkergit](https://github.com/benparkergit), [@pushthings4ward](https://github.com/pushthings4ward), [Matt Osborn](https://github.com/mattosborn), [Daniel Chen](https://github.com/chendaniely), [Daina Bouquin](https://github.com/dbouquin), [@cdcepi](https://github.com/cdcepi/zika), and [@derektlo](https://github.com/derektlo).
+I would like to appreciate and thank [Torsten Wurm](https://twitter.com/thelonevirologi), [@benparkergit](https://github.com/benparkergit), [@pushthings4ward](https://github.com/pushthings4ward), [Matt Osborn](https://github.com/mattosborn), [Daniel Chen](https://github.com/chendaniely), [Daina Bouquin](https://github.com/dbouquin), [@cdcepi](https://github.com/cdcepi/zika), and [@derektlo](https://github.com/derektlo) for supporting with the data set collection.
 
-## Suggestions or Questions?
 
-Please [file an issue](https://github.com/BuzzFeedNews/zika-data/issues) or email jeremy.singer-vine@buzzfeed.com.
-
-For more open-source data, methodologies, analyses, guides, and tools from BuzzFeed News, see [BuzzFeedNews/everything](https://github.com/BuzzFeedNews/everything).
+    References: 
+    * Jeremy Singer-Vine, . (2016, February 26). BuzzFeedNews/zika-data as of 2016-02-26. Zenodo. http://doi.org/10.5281/zenodo.46641
+    * zika-data (2016,February 26). Retrieved from https://github.com/BuzzFeedNews/zika-data.

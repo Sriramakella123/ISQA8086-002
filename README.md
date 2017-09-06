@@ -1,5 +1,5 @@
 # _ISQA8086-002_
-This is the Readme assignment page
+This is the Information Seeking assignment page
 
 ## Readme
 I have created a repository with the name ISQA8086-002 which is a placeholder for my individual asssignments and Readme is the first activity
@@ -11,11 +11,13 @@ Venkata Naga Sai Sriram Akella -*My Project*- [SriramAkella](https://github.com/
 This project is licensed under the GNU General Public License v2.0 - see the [License](https://github.com/Sriramakella123/ISQA8086-002/blob/master/LICENSE) file for more details.
 
 #### List of files in the repository
+* Media Platform and News Trust Data Set
+* Uber Data Set
+* Zika Data Set
 * License
 * Readme.md
 
 ##### List of Projects in future
-* Information Seeking
 * Data Entry Analysis
 * Workplan and RQ
 * Data Cleaning Documentation etc,.

@@ -18,7 +18,8 @@ _This markdown document in the repository consists of the Zika Virus related dat
     - [United States](#united-states)
 - [Additional Resources](#additional-resources)
 
-The data set can be obtained from [Zika Data Set](https://github.com/Sriramakella123/ISQA8086-002/tree/master/Zika%20Data%20Set)
+##  Why this data is interesting
+The data consists of the information relating to the people affected by the Zika Virus and respected region, country they belong to. Also it specifices the conformity of the virus spread through which necessary decision can be taken and the reported date also helps in effective tracking of virus and its spread. The data set can be obtained from [Zika Data Set](https://github.com/Sriramakella123/ISQA8086-002/tree/master/Zika%20Data%20Set)
 
 ## Global Data
 

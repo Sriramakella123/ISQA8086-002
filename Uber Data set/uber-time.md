@@ -1,4 +1,4 @@
-_This markdown document in the repository consists of the Uber travel time data spread across various geographical locations
+_This markdown document in the repository consists of the Uber travel time data spread across various geographical locations_
 
 # Uber Data Set
 

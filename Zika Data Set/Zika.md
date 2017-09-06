@@ -109,5 +109,5 @@ I would like to appreciate and thank [Torsten Wurm](https://twitter.com/thelonev
 
 
     References: 
-    * Jeremy Singer-Vine, . (2016, February 26). BuzzFeedNews/zika-data as of 2016-02-26. Zenodo. http://doi.org/10.5281/zenodo.46641
-    * zika-data (2016,February 26). Retrieved from https://github.com/BuzzFeedNews/zika-data.
+     1. Jeremy Singer-Vine, . (2016, February 26). BuzzFeedNews/zika-data as of 2016-02-26. Zenodo. http://doi.org/10.5281/zenodo.46641
+     2. zika-data (2016,February 26). Retrieved from https://github.com/BuzzFeedNews/zika-data.

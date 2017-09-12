@@ -37,7 +37,7 @@ The problems in the provided data files are as identified -
 7. In few columns like "Number of chippo.cuni per litre" there exists certain negative values which are not valid.
 8. The columns in the data files are abbreviated and that doesn't provide a clear information with respect to the end user perspective.A definition or the meaning of a column is not provided which makes difficult to analyze the data.
 
-    Note:Though the abbreviations are provided they are maintained in a seperate spreadsheet and the in extension the pivot chart included doesnot provide much details.
+* _Note: Though the abbreviations are provided they are maintained in a seperate spreadsheet and the pivot chart included doesnot provide much details._
 
 ## Task-2 Solution
 

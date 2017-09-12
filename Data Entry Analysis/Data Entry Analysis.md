@@ -33,9 +33,11 @@ The problems in the provided data files are as identified -
 3. In the data file **zoop-temp.xlsx** it is mentioned that  _"Station B is in a shallower southern arm of the lake, see yellow notebook for map and details"_ . However such yellow notebook or the marked details are not available.
 4. Further for all the data files,the time of data collection is not collected, which might mislead the data analysts and examiners in analyzing the behaviour of species
 5. The years in which the data are collected for the zoop as well as the pond are not same. The zoop data file is collected in the year 2011 while pond data in 2010 which leads to false analysis.
-6. The unit of measurement for the columns is not mentioned in any of the data files provided.
+6. The unit of measurement for the columns is not mentioned in any of the data files provided and this is same with respect to pivot chart.The variables plotted have no labels.
 7. In few columns like "Number of chippo.cuni per litre" there exists certain negative values which are not valid.
 8. The columns in the data files are abbreviated and that doesn't provide a clear information with respect to the end user perspective.A definition or the meaning of a column is not provided which makes difficult to analyze the data.
+
+    Note:Though the abbreviations are provided they are maintained in a seperate spreadsheet and the in extension the pivot chart included doesnot provide much details.
 
 ## Task-2 Solution
 
@@ -46,17 +48,19 @@ The solutions to the above mentioned problems are as mentioned -
 4. Year in which data is collected is included for better data storage, filing and analysis.
 5. The data storage of the files can be done in a single location or a arepositiory that helps in data integrity and redundany of data.
 6. Correspondingly, a data dictionary and the terms of usage of data for analysis and its validity should be properly documented.
-7. The unit of measurement of data can be included besides the column header.
+7. The unit of measurement of data can be included besides the column header.And the data variables for the charts or analysis needs to be provided for better data understanding.
 8. Additionally, data correction or validation tools or statistical softares like SPSS can be used for efficient data entry compared to excel.
 
 ## Tables
-**Table A: Chippo Table**  
+**Table A: Chippo(Conochilus hippocrepis
+) Table**  
 
 | Time (Estimated) | Date | Location | Temperature (Degree Celsius) | Density (kilogram / cubicmetre) | Colony Diameter (metre) | Species | Depth (metre) | Chippo #/L | Chippo Colony Size (millimetre) | Chlorophyll A | Station | Additional Information |
 |------------------|------|----------|------------------------------|---------------------------------|-------------------------|---------|---------------|------------|---------------------------------|---------------|---------|------------------------|
 |                  |      |          |                              |                                 |                         |         |               |            |                                 |               |         |                        |
 
-**Table B: Cuni Table**  
+**Table B: Cuni(Conochilus unicornis
+) Table**  
 
 | Time (Estimated) | Date | Location | Temperature (Degree Celsius) | Density (kilogram / cubicmetre) | Colony Diameter (metre) | Species | Depth (metre) | Cuni #/L | Cuni Colony Size (millimetre) | Chlorophyll A | Station | Additional Information |
 |------------------|------|----------|------------------------------|---------------------------------|-------------------------|---------|---------------|------------|---------------------------------|---------------|---------|------------------------|

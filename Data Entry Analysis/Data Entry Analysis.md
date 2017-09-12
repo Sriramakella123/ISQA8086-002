@@ -51,6 +51,7 @@ The solutions to the above mentioned problems are as mentioned -
 
 ## Tables
 **Table A: Chippo Table**  
+
 | Time (Estimated) | Date | Location | Temperature (Degree Celsius) | Density (kilogram / cubicmetre) | Colony Diameter (metre) | Species | Depth (metre) | Chippo #/L | Chippo Colony Size (millimetre) | Chlorophyll A | Station | Additional Information |
 |------------------|------|----------|------------------------------|---------------------------------|-------------------------|---------|---------------|------------|---------------------------------|---------------|---------|------------------------|
 |                  |      |          |                              |                                 |                         |         |               |            |                                 |               |         |                        |
